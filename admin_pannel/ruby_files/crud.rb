@@ -30,6 +30,6 @@ def authenticate_user(username,password,list_of_users)
   return user_record
    end
   end
-  "Credentials were not correct!!"
+  "Please add right credentials."
  end
 end
